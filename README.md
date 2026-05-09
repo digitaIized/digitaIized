@@ -1,5 +1,5 @@
   <p align="center">
-  <img width="800" height="70" src="https://64.media.tumblr.com/dfd0a141c8440c6ba737b1b7029a462a/cbde3f46d74917f9-d9/s500x750/75aac3a577bcfa070dacaf9e8f1a1d38bd85c31a.pnj">
+  <img width="800" height="450" src="https://64.media.tumblr.com/53f332a6ebf0e4b74e98fffaeffd4b73/aba9d555a7557db4-42/s500x750/80d9a02cdfb96a81310a24ec56b96222920008cd.pnj">
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 </p> 
 
 <p align="center">
-$${\color{lightblue}Moon, Tell Me If I Could{}}$$
+$${\color{blue}I Am Real{}}$$
 </p> 
 
 <p align="center">
-$${\color{lightblue}Send My Heart Up To You{}}$$
+$${\color{lightblue}And You're Not{}}$$
 </p>
 
 <p align="center">
@@ -56,21 +56,21 @@ $${\color{lightblue}Send My Heart Up To You{}}$$
   </a>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-zayvorlux&label=Kills&color=305595&style=plastic&abbreviated=true&base=10100">
+  <img src="https://komarev.com/ghpvc/?username=your-github-digitaIized&label=Cookies&color=305595&style=plastic&abbreviated=true&base=10400">
 </p>
 
   <p align="center">
-  <img width="800" height="70" src="https://64.media.tumblr.com/0b06e9babc460a98df50a6be158ff702/cbde3f46d74917f9-d3/s500x750/4cc98e18210a161c690a8d154b00719175fa2a5e.pnj">
+  <img width="800" height="500" src="https://64.media.tumblr.com/55cf43886fab2a6fd43fb3e7d0808185/aba9d555a7557db4-7e/s540x810/1563ffd8c6a9e48365131f8abc252e7cfb446e0d.pnj">
 </p>
 
   <p align="center">
-  <img width="150" height="70" src="https://64.media.tumblr.com/1dfd5df1233abde7195b40b032971f62/473cb7d99dd6bf5d-40/s100x200/94191450b1e6133d8db191b7fffefaea80ff2c90.pnj">
+  <img width="300" height="40" src="https://64.media.tumblr.com/d7e71646b6deb80e42a4d4724205aa4d/9e78649b9769f5f6-c8/s400x600/d9fa8cfb3c9719abae8236f1633554a1c942b389.pnj">
 </p>
 
   <p align="center">
-  <img width="150" height="70" src="https://64.media.tumblr.com/93008e05755efb380e25511a2f794fdd/82f062ad64b65975-a3/s100x200/4d626ee6e7823f952495c6cfcbe6d50bce94c40d.pnj">
+  <img width="300" height="40" src="https://64.media.tumblr.com/f39d2d9b4ff14debe7889eaf16a8d50f/8c31b629e8af12d2-67/s250x400/0b7b2df5e551bd51e3a1be4e2084aa9475b89d5c.gifv">
 </p>
 
   <p align="center">
-  <img width="150" height="70" src="https://64.media.tumblr.com/41a6de61204856e4af5b382cb938b754/9c33de92c99e9857-98/s250x400/0190ab4378413584082992872f8eb85ee1ab5ee5.pnj">
+  <img width="300" height="40" src="https://64.media.tumblr.com/f2d2638264374fc14c496ef51c2919e7/8c31b629e8af12d2-99/s250x400/efab934c7a0c5dd4da399ddea6b611f5f64bb7b7.gifv">
 </p>
