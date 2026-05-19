@@ -1,5 +1,9 @@
   <p align="center">
-  <img width="800" height="450" src="https://64.media.tumblr.com/53f332a6ebf0e4b74e98fffaeffd4b73/aba9d555a7557db4-42/s500x750/80d9a02cdfb96a81310a24ec56b96222920008cd.pnj">
+  <img width="800" height="120" src="https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.pnj">
+</p>
+
+  <p align="center">
+  <img width="100" height="120" src="https://64.media.tumblr.com/d3d6fa07393f6017d7c38320f30364fc/467cdec442d12682-d0/s250x400/1822b73cc324a6e1eb67b2b92892ba9befce769f.pnj">
 </p>
 
 <p align="center">
@@ -27,11 +31,11 @@
 </p> 
 
 <p align="center">
-$${\color{blue}I Am Real{}}$$
+$${\color{beige}The Dominion{}}$$
 </p> 
 
 <p align="center">
-$${\color{lightblue}And You're Not{}}$$
+$${\color{red}Overpowers All{}}$$
 </p>
 
 <p align="center">
@@ -56,21 +60,9 @@ $${\color{lightblue}And You're Not{}}$$
   </a>
 </p>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-digitaIized&label=Cookies&color=305595&style=plastic&abbreviated=true&base=10400">
+  <img src="https://komarev.com/ghpvc/?username=your-github-digitaIized&label=Ashes&color=aba19a&style=plastic&abbreviated=true&base=10400">
 </p>
 
   <p align="center">
-  <img width="800" height="500" src="https://64.media.tumblr.com/55cf43886fab2a6fd43fb3e7d0808185/aba9d555a7557db4-7e/s540x810/1563ffd8c6a9e48365131f8abc252e7cfb446e0d.pnj">
-</p>
-
-  <p align="center">
-  <img width="300" height="40" src="https://64.media.tumblr.com/d7e71646b6deb80e42a4d4724205aa4d/9e78649b9769f5f6-c8/s400x600/d9fa8cfb3c9719abae8236f1633554a1c942b389.pnj">
-</p>
-
-  <p align="center">
-  <img width="300" height="40" src="https://64.media.tumblr.com/f39d2d9b4ff14debe7889eaf16a8d50f/8c31b629e8af12d2-67/s250x400/0b7b2df5e551bd51e3a1be4e2084aa9475b89d5c.gifv">
-</p>
-
-  <p align="center">
-  <img width="300" height="40" src="https://64.media.tumblr.com/f2d2638264374fc14c496ef51c2919e7/8c31b629e8af12d2-99/s250x400/efab934c7a0c5dd4da399ddea6b611f5f64bb7b7.gifv">
+  <img width="800" height="120" src="https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.pnj">
 </p>
